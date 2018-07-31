@@ -1,0 +1,28 @@
+{
+  "name": "express-todo",
+  "version": "1.0.0",
+  "description": "short quick todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcmahan/express-todo.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "James Mahan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcmahan/express-todo/issues"
+  },
+  "homepage": "https://github.com/jcmahan/express-todo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "ejs-lint": "^0.3.0",
+    "express": "^4.16.3"
+  }
+}

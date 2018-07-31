@@ -1,0 +1,17 @@
+* {
+    font-family: "Roboto";
+}
+
+.complete{
+    color: blue; 
+}
+.in-progress{
+    color: green;
+    margin-bottom: 15px; 
+}
+.in-progress button {
+    background-color: slategrey;
+}
+.strong {
+    font-weight: bolder;
+}
